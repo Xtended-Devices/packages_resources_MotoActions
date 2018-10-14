@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Title and summary -->
+  <string name="moto_actions_title">મોટો ક્રિયાઓ</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">ચાલુ</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -93,11 +94,21 @@
   <string name="action_email">ઇમેઇલ ચાલુ કરો</string>
   <string name="action_messages">સંદેશ એપ ચાલુ કરો</string>
   <!-- Screen off gestures -->
+  <string name="screen_off_gestures_title">સ્ક્રીન બંદ કરવાની સંજ્ઞા</string>
   <string name="screen_off_gestures_manage_summary">સ્ક્રીન બંધ હોય ત્યારે જેસચર મેનેજ કરો</string>
+  <string name="screen_off_gestures_swipe_left_title">સ્વાઇપ ડાબે</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">સ્વાઇપ ડાબે માટે ક્રિયા પસંદ કરો</string>
+  <string name="screen_off_gestures_swipe_right_title">સ્વાઇપ જમણે</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">સ્વાઇપ જમણા માટે ક્રિયા પસંદ કરો</string>
   <string name="screen_off_gestures_swipe_up_title">સ્વાઈપ ઉપર</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">સ્વાઇપ અપ માટે ક્રિયા પસંદ કરો</string>
+  <string name="screen_off_gestures_swipe_down_title">નીચે સ્વાઇપ કરો</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">સ્વાઇપ ડાઉન માટે ક્રિયા પસંદ કરો</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">સક્રિય કરવા બે વાર ટેપ કરો</string>
+  <string name="tap_to_wake_summary">ઉપકરણને સક્રિય કરવા માટે સ્ક્રીન પર ગમે ત્યાં બે વાર ટેપ કરો</string>
   <!-- Screen off gestures haptic feedback -->
+  <string name="haptic_feedback">હેપ્ટિક પ્રતિભાવ</string>
   <string name="haptic_feedback_summary">જ્યારે ટચસ્ક્રીન જેસચર શોધાયેલ હોય ત્યારે ધ્રૂજવું</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">પ્રોક્સીમેટ્રી સેન્સર ને મંજૂરી આપો</string>
@@ -105,4 +116,5 @@
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
+  <string name="restart_needed">સેટિંગ્સને લાગુ કરવા માટે ઉપકરણને પુનઃપ્રારંભ કરવું આવશ્યક છે, હવે ફરીથી પ્રારંભ કરો?</string>
 </resources>

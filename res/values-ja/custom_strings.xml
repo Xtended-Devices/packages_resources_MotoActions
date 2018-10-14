@@ -35,16 +35,16 @@
   <string name="hand_wave_silencer_summary">画面上で手を振って着信をサイレントにする</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">手を振る</string>
-  <string name="hand_wave_gesture_summary">手を振ったときに通知を点滅表示する</string>
+  <string name="hand_wave_gesture_summary">手を振った時に通知を点滅表示する</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">裏返してマナーモード</string>
   <string name="flip_to_mute_summary">端末を裏向きにして通知と通話をサイレントにする</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">持ち上げて着信音停止</string>
-  <string name="lift_to_silence_summary">端末を持ち上げたときに着信音をサイレントにします。端末が水平面にあった場合にのみ動作します。</string>
+  <string name="lift_to_silence_summary">端末を持ち上げた時に着信音をサイレントにします。端末が水平面にあった場合にのみ動作します。</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">持ち上げ</string>
-  <string name="pick_up_gesture_summary">端末を持ち上げたときに通知を点滅表示する</string>
+  <string name="pick_up_gesture_summary">端末を持ち上げた時に通知を点滅表示する</string>
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">ジェスチャー</string>
   <!-- Device gestures -->
@@ -109,7 +109,7 @@
   <string name="tap_to_wake_summary">画面をダブルタップすると端末が復帰します</string>
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">振動フィードバック</string>
-  <string name="haptic_feedback_summary">タッチスクリーンジェスチャーを検出したときに振動させる</string>
+  <string name="haptic_feedback_summary">タッチスクリーンジェスチャーを検出した時に振動させる</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">近接センサーを許可</string>
   <string name="allow_proximity_sensor_summary">アクションを実行する前に近接センサーを確認する</string>
