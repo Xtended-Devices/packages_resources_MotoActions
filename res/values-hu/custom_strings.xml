@@ -70,8 +70,8 @@
   <string name="fingerprint_swipe_right_dlg_title">Művelet megadása jobbrahúzáskor</string>
   <!-- Fingerprint gestures screen off -->
   <string name="fingerprint_gestures_screenoff_title">Ujjlenyomat-gesztusok, mikor képernyő kikapcsolt</string>
-  <string name="fingerprint_gestures_screenoff_summary">Ujjlenyomat gesztusok használata, ha a képernyő ki van kapcsolva.\n\nUjjlenyomat feloldást ki kell kapcsolni a szolgáltatás használatához.</string>
-  <string name="fingerprint_actions_screenoff">Cselekvések kikapcsolt kijelzővel</string>
+  <string name="fingerprint_gestures_screenoff_summary">Ujjlenyomat-gesztusok használata, kikapcsolt képernyőnél.\n\nAz Ujjlenyomat-feloldást ki kell kapcsolni a szolgáltatás használatához.</string>
+  <string name="fingerprint_actions_screenoff">Műveletek kikapcsolt kijelzőnél</string>
   <!-- Actions -->
   <string name="action_none">Letiltva</string>
   <string name="action_home">Kezdőlap</string>
@@ -79,7 +79,7 @@
   <string name="action_wake">Felébresztés</string>
   <string name="action_back">Vissza</string>
   <string name="action_recents">Előzmények</string>
-  <string name="action_last_app">Utolsó alkalmazás</string>
+  <string name="action_last_app">Legutóbbi alkalmazás</string>
   <string name="action_volume_up">Hangerő fel</string>
   <string name="action_volume_down">Hangerő le</string>
   <string name="action_voice_assistant">Hangsegéd</string>
@@ -94,7 +94,7 @@
   <string name="action_email">E-mail alkalmazás megnyitása</string>
   <string name="action_messages">Üzenet alkalmazás megnyitása</string>
   <!-- Screen off gestures -->
-  <string name="screen_off_gestures_title">Képernyő kikapcsoló mozdulat</string>
+  <string name="screen_off_gestures_title">Képernyőkikapcsoló mozdulat</string>
   <string name="screen_off_gestures_manage_summary">Gesztusok beállítása kikapcsolt kijelző esetén</string>
   <string name="screen_off_gestures_swipe_left_title">Húzás balra</string>
   <string name="screen_off_gestures_swipe_left_dlg_title">Művelet megadása balrahúzáskor</string>
@@ -106,15 +106,15 @@
   <string name="screen_off_gestures_swipe_down_dlg_title">Művelet megadása lehúzáskor</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">Koppintson a felébresztéshez</string>
-  <string name="tap_to_wake_summary">Az eszköz felébresztéséhez koppintson kétszer bárhol a képernyőre</string>
+  <string name="tap_to_wake_summary">A készülék felébresztéséhez koppintson kétszer bárhol a képernyőre</string>
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Érintési visszajelzés</string>
   <string name="haptic_feedback_summary">Rezegjen a képernyő gesztus észlelésekor</string>
   <!-- Proximity sensor -->
   <string name="allow_proximity_sensor_title">Közelségérzékelő engedélyezése</string>
-  <string name="allow_proximity_sensor_summary">Ellenőrizze a közelségi érzékelőt, a művelet végrehajtása előtt</string>
+  <string name="allow_proximity_sensor_summary">A művelet végrehajtása előtt ellenőrizze a közelségérzékelőt</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
-  <string name="restart_needed">Az eszközt újra kell indítani hogy a változtatások érvénybe lépjenek, újraindítja most?</string>
+  <string name="restart_needed">A készüléket újra kell indítani hogy a változtatások érvénybe lépjenek, újraindítja most?</string>
 </resources>
