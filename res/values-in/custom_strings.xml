@@ -31,11 +31,11 @@
   <string name="chop_chop_gesture_title">Guncang dua kali</string>
   <string name="chop_chop_gesture_summary">Hidupkan/matikan senter ketika menggunakan gerakan guncang ganda</string>
   <!-- Hand wave silencer gesture -->
-  <string name="hand_wave_silencer_title">Lambai untuk senyap</string>
-  <string name="hand_wave_silencer_summary">Senyapkan panggilan masuk dengan melambaikan tangan di depan layar</string>
+  <string name="hand_wave_silencer_title">Guncang tangan untuk senyap</string>
+  <string name="hand_wave_silencer_summary">Senyapkan panggilan masuk dengan mengguncang tangan di depan layar</string>
   <!-- Hand wave gesture -->
   <string name="hand_wave_gesture_title">Guncang Tangan</string>
-  <string name="hand_wave_gesture_summary">Kedipkan pemberitahuan saat melambaikan tangan</string>
+  <string name="hand_wave_gesture_summary">Kedipkan pemberitahuan saat mengguncangkan tangan</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Membalik untuk Jangan Ganggu</string>
   <string name="flip_to_mute_summary">Balik layar telepon ke bawah untuk mengabaikan pemberitahuan dan panggilan</string>
@@ -48,13 +48,13 @@
   <!-- Device gestures panel -->
   <string name="screen_gestures_panel_title">Gestur</string>
   <!-- Device gestures -->
-  <string name="device_gestures_title">Gerakan perangkat</string>
+  <string name="device_gestures_title">Gestur perangkat</string>
   <string name="device_gestures_summary">Kelola gestur perangkat</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Tampilan ambien</string>
   <string name="ambient_display_manage_summary">Kelola gerakan tampilan ambien</string>
   <!-- Fingerprint gestures -->
-  <string name="fingerprint_gestures_title">Gerakan sidik jari</string>
+  <string name="fingerprint_gestures_title">Gestur sidik jari</string>
   <string name="fingerprint_gestures_summary">Gunakan gestur sidik jari</string>
   <string name="fingerprint_gestures_manage_summary">Kelola gestur sidik jari</string>
   <string name="fingerprint_actions_screenon">Tindakan saat layar hidup</string>
@@ -64,13 +64,13 @@
   <string name="fingerprint_double_tap_dlg_title">Pilih tindakan untuk ketukan ganda</string>
   <string name="fingerprint_long_tap_title">Ketukan lama</string>
   <string name="fingerprint_long_tap_dlg_title">Pilih tindakan untuk ketukan lama</string>
-  <string name="fingerprint_swipe_left_title">Geser ke kiri</string>
-  <string name="fingerprint_swipe_left_dlg_title">Pilih tindakan saat menggeser ke kiri</string>
-  <string name="fingerprint_swipe_right_title">Geser ke kanan</string>
-  <string name="fingerprint_swipe_right_dlg_title">Pilih tindakan saat menggeser ke kanan</string>
+  <string name="fingerprint_swipe_left_title">Usap ke kiri</string>
+  <string name="fingerprint_swipe_left_dlg_title">Pilih tindakan saat mengusap ke kiri</string>
+  <string name="fingerprint_swipe_right_title">Usap ke kanan</string>
+  <string name="fingerprint_swipe_right_dlg_title">Pilih tindakan saat mengusap ke kanan</string>
   <!-- Fingerprint gestures screen off -->
   <string name="fingerprint_gestures_screenoff_title">Gestur sidik jari saat layar mati</string>
-  <string name="fingerprint_gestures_screenoff_summary">Gunakan gerakan sidik jari saat layar mati.\n\npembuka kunci dengan sidik jari harus dimatikan untuk menggunakan fitur ini.</string>
+  <string name="fingerprint_gestures_screenoff_summary">Gunakan gestur sidik jari saat layar mati.\n\npembuka kunci dengan sidik jari harus dimatikan untuk menggunakan fitur ini.</string>
   <string name="fingerprint_actions_screenoff">Tindakan saat layar mati</string>
   <!-- Actions -->
   <string name="action_none">Nonaktifkan</string>
@@ -94,16 +94,16 @@
   <string name="action_email">Buka aplikasi email</string>
   <string name="action_messages">Buka aplikasi pesan</string>
   <!-- Screen off gestures -->
-  <string name="screen_off_gestures_title">Gerakan ketika layar mati</string>
-  <string name="screen_off_gestures_manage_summary">Mengatur gerakan ketika layar mati</string>
-  <string name="screen_off_gestures_swipe_left_title">Geser ke kiri</string>
-  <string name="screen_off_gestures_swipe_left_dlg_title">Pilih tindakan saat menggeser ke kiri</string>
-  <string name="screen_off_gestures_swipe_right_title">Geser ke kanan</string>
-  <string name="screen_off_gestures_swipe_right_dlg_title">Pilih tindakan saat menggeser ke kanan</string>
-  <string name="screen_off_gestures_swipe_up_title">Geser ke atas</string>
-  <string name="screen_off_gestures_swipe_up_dlg_title">Pilih tindakan saat menggeser ke atas</string>
-  <string name="screen_off_gestures_swipe_down_title">Geser ke bawah</string>
-  <string name="screen_off_gestures_swipe_down_dlg_title">Pilih tindakan saat menggeser ke bawah</string>
+  <string name="screen_off_gestures_title">Gestur ketika layar mati</string>
+  <string name="screen_off_gestures_manage_summary">Mengatur gestur ketika layar mati</string>
+  <string name="screen_off_gestures_swipe_left_title">Usap ke kiri</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Pilih tindakan saat mengusap ke kiri</string>
+  <string name="screen_off_gestures_swipe_right_title">Usap ke kanan</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Pilih tindakan saat mengusap ke kanan</string>
+  <string name="screen_off_gestures_swipe_up_title">Usap ke atas</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Pilih tindakan saat mengusap ke atas</string>
+  <string name="screen_off_gestures_swipe_down_title">Usap ke bawah</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Pilih tindakan saat mengusap ke bawah</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">Ketuk untuk bangun</string>
   <string name="tap_to_wake_summary">Ketuk dua kali dimana saja pada layar untuk membangunkan perangkat</string>
@@ -116,5 +116,5 @@
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
   <!-- Restart device -->
-  <string name="restart_needed">Agar setelan tersimpan perangkat harus direstart terlebih dahulu, restart sekarang ?</string>
+  <string name="restart_needed">Agar setelan tersimpan perangkat harus dimuat ulang terlebih dahulu, muat ulang sekarang?</string>
 </resources>

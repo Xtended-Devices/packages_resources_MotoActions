@@ -88,7 +88,7 @@
   <string name="action_next_track">Další skladba</string>
   <string name="action_flashlight">Zapnout/vypnout svítilnu</string>
   <string name="action_camera">Otevřít fotoaparát</string>
-  <string name="action_screenshot">Získat snímek obrazovky</string>
+  <string name="action_screenshot">Pořídit snímek obrazovky</string>
   <string name="action_browser">Otevřít prohlížeč</string>
   <string name="action_dialer">Spustit vytáčení</string>
   <string name="action_email">Otevřít emailový klient</string>

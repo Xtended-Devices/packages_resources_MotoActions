@@ -19,14 +19,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Title and summary -->
-  <string name="moto_actions_title">Moto Actions</string>
+  <string name="moto_actions_title">Azioni di movimento</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
   <string name="switch_bar_on">Attivo</string>
   <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <string name="switch_bar_off">Non attivo</string>
+  <string name="switch_bar_off">Spento</string>
   <!-- Camera gesture -->
   <string name="camera_gesture_title">Doppio scuotimento</string>
-  <string name="camera_gesture_summary">Apri la fotocamera quando scuoti due volte</string>
+  <string name="camera_gesture_summary">Apri la fotocamera quando usi il gesto di scuotere due volte</string>
   <!-- Chop-chop gesture -->
   <string name="chop_chop_gesture_title">Chop-chop</string>
   <string name="chop_chop_gesture_summary">Accendi la torcia quando utilizzi la gesture chop-chop</string>
@@ -38,80 +38,80 @@
   <string name="hand_wave_gesture_summary">Mostra notifiche al passaggio della mano</string>
   <!-- Flip to mute gesture -->
   <string name="flip_to_mute_title">Capovolgi per non disturbare</string>
-  <string name="flip_to_mute_summary">Metti a faccia in giù il telefono per silenziare le notifiche e le chiamate</string>
+  <string name="flip_to_mute_summary">Metti il dispositivo a faccia in giù per silenziare le notifiche e le chiamate</string>
   <!-- Lift to silence gesture -->
   <string name="lift_to_silence_title">Prendi in mano per silenziare</string>
-  <string name="lift_to_silence_summary">Solleva il telefono per silenziare le chiamate in arrivo. Funziona solo se il telefono è su una superficie piatta</string>
+  <string name="lift_to_silence_summary">Solleva il telefono per silenziare le chiamate in arrivo. Funziona solo se il telefono è su una superficie piana</string>
   <!-- Pick-up gesture -->
   <string name="pick_up_gesture_title">Sollevamento</string>
   <string name="pick_up_gesture_summary">Mostra notifiche al sollevamento</string>
   <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">Gesture</string>
+  <string name="screen_gestures_panel_title">Gesti</string>
   <!-- Device gestures -->
-  <string name="device_gestures_title">Gesti</string>
-  <string name="device_gestures_summary">Gestione gesti</string>
+  <string name="device_gestures_title">Gesti del dispositivo</string>
+  <string name="device_gestures_summary">Gestione dei gesti del dispositivo</string>
   <!-- Ambient display gestures -->
   <string name="ambient_display_title">Ambient display</string>
-  <string name="ambient_display_manage_summary">Ambient Display Gestures</string>
+  <string name="ambient_display_manage_summary">Gestione dei gesti dell\'ambient display</string>
   <!-- Fingerprint gestures -->
-  <string name="fingerprint_gestures_title">Azioni sensore impronte</string>
-  <string name="fingerprint_gestures_summary">Utilizza azioni sensore impronte</string>
-  <string name="fingerprint_gestures_manage_summary">Gestisci azioni rilevatore impronte</string>
+  <string name="fingerprint_gestures_title">Gesti sensore d\'impronte digitali</string>
+  <string name="fingerprint_gestures_summary">Utilizza i gesti del sensore d\'impronte digitali</string>
+  <string name="fingerprint_gestures_manage_summary">Gestisci le azioni del sensore d\'impronte digitali</string>
   <string name="fingerprint_actions_screenon">Azioni con schermo acceso</string>
   <string name="fingerprint_tap_title">Tocco singolo</string>
-  <string name="fingerprint_tap_dlg_title">Seleziona azioni tocco singolo</string>
+  <string name="fingerprint_tap_dlg_title">Seleziona l\'azione per il tocco singolo</string>
   <string name="fingerprint_double_tap_title">Doppio tocco</string>
-  <string name="fingerprint_double_tap_dlg_title">Seleziona azione doppio tocco</string>
+  <string name="fingerprint_double_tap_dlg_title">Seleziona l\'azione per il doppio tocco</string>
   <string name="fingerprint_long_tap_title">Tocco prolungato</string>
-  <string name="fingerprint_long_tap_dlg_title">Azione tocco prolungato</string>
+  <string name="fingerprint_long_tap_dlg_title">Seleziona l\'azione per il tocco prolungato</string>
   <string name="fingerprint_swipe_left_title">Scorri a sinistra</string>
-  <string name="fingerprint_swipe_left_dlg_title">Seleziona azione per scorri a sinistra</string>
+  <string name="fingerprint_swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento a sinistra</string>
   <string name="fingerprint_swipe_right_title">Scorri a destra</string>
-  <string name="fingerprint_swipe_right_dlg_title">Seleziona azione per scorri a destra</string>
+  <string name="fingerprint_swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento a destra</string>
   <!-- Fingerprint gestures screen off -->
-  <string name="fingerprint_gestures_screenoff_title">Azioni per sensore impronte con schermo spento</string>
-  <string name="fingerprint_gestures_screenoff_summary">Utilizza le azioni sensore impronte quando lo schermo è spento.\n\nLo sblocco con il sensore impronte deve essere disattivato per utilizzare questa funzione.</string>
+  <string name="fingerprint_gestures_screenoff_title">Gesti del sensore d\'impronte digitali quando lo schermo è spento</string>
+  <string name="fingerprint_gestures_screenoff_summary">Utilizza i gesti del sensore d\'impronte digitali quando lo schermo è spento.\n\nLo sblocco con il sensore d\'impronte digitali deve essere disattivato per utilizzare questa funzione.</string>
   <string name="fingerprint_actions_screenoff">Azioni con schermo spento</string>
   <!-- Actions -->
-  <string name="action_none">Disattiva</string>
+  <string name="action_none">Nessuna</string>
   <string name="action_home">Home</string>
   <string name="action_power">Accendi/spegni schermo</string>
-  <string name="action_wake">Attiva schermo</string>
+  <string name="action_wake">Risveglia</string>
   <string name="action_back">Indietro</string>
   <string name="action_recents">Recenti</string>
   <string name="action_last_app">Ultima applicazione</string>
-  <string name="action_volume_up">Aumenta Volume</string>
+  <string name="action_volume_up">Aumenta il volume</string>
   <string name="action_volume_down">Abbassa il volume</string>
   <string name="action_voice_assistant">Assistente vocale</string>
-  <string name="action_play_pause">Play/Pause</string>
+  <string name="action_play_pause">Avvia/pausa</string>
   <string name="action_previous_track">Brano precedente</string>
   <string name="action_next_track">Brano successivo</string>
-  <string name="action_flashlight">Torcia accendi/spegni</string>
-  <string name="action_camera">Avvia fotocamera</string>
-  <string name="action_screenshot">Cattura schermata</string>
-  <string name="action_browser">Apri browser</string>
-  <string name="action_dialer">Apri applicazione predefinita telefonate</string>
-  <string name="action_email">Apri applicazione predefinita email</string>
-  <string name="action_messages">Apri applicazione predefinita messaggi</string>
+  <string name="action_flashlight">Accendi/spegni torcia</string>
+  <string name="action_camera">Avvia la fotocamera</string>
+  <string name="action_screenshot">Cattura la schermata</string>
+  <string name="action_browser">Apri il browser</string>
+  <string name="action_dialer">Apri l\'app telefono</string>
+  <string name="action_email">Apri l\'app email</string>
+  <string name="action_messages">Apri l\'app messaggi</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gesti a schermo spento</string>
-  <string name="screen_off_gestures_manage_summary">Gestisci gesti con schermo spento</string>
+  <string name="screen_off_gestures_manage_summary">Gestisci i gesti quando lo schermo è spento</string>
   <string name="screen_off_gestures_swipe_left_title">Scorri a sinistra</string>
-  <string name="screen_off_gestures_swipe_left_dlg_title">Seleziona azione per scorri a sinistra</string>
+  <string name="screen_off_gestures_swipe_left_dlg_title">Seleziona l\'azione per lo scorrimento a sinistra</string>
   <string name="screen_off_gestures_swipe_right_title">Scorri a destra</string>
-  <string name="screen_off_gestures_swipe_right_dlg_title">Seleziona azione per scorri a destra</string>
+  <string name="screen_off_gestures_swipe_right_dlg_title">Seleziona l\'azione per lo scorrimento a destra</string>
   <string name="screen_off_gestures_swipe_up_title">Scorri verso l\'alto</string>
-  <string name="screen_off_gestures_swipe_up_dlg_title">Seleziona azione per scorri in alto</string>
-  <string name="screen_off_gestures_swipe_down_title">Scorrere verso il basso</string>
-  <string name="screen_off_gestures_swipe_down_dlg_title">Seleziona azione per scorri in basso</string>
+  <string name="screen_off_gestures_swipe_up_dlg_title">Seleziona l\'azione per lo scorrimento verso l\'alto</string>
+  <string name="screen_off_gestures_swipe_down_title">Scorri verso il basso</string>
+  <string name="screen_off_gestures_swipe_down_dlg_title">Seleziona l\'azione per lo scorrimento verso il basso</string>
   <!-- Double tap to wake -->
   <string name="tap_to_wake">Tocca per riattivare</string>
-  <string name="tap_to_wake_summary">Tocca due volte un punto qualsiasi dello schermo per riattivare lo schermo</string>
+  <string name="tap_to_wake_summary">Tocca due volte in un punto qualsiasi dello schermo per riattivare il dispositivo</string>
   <!-- Screen off gestures haptic feedback -->
   <string name="haptic_feedback">Vibrazione al tocco</string>
   <string name="haptic_feedback_summary">Vibra quando viene rilevato un gesto</string>
   <!-- Proximity sensor -->
-  <string name="allow_proximity_sensor_title">Autorizza sensore di prossimità</string>
+  <string name="allow_proximity_sensor_title">Autorizza il sensore di prossimità</string>
   <string name="allow_proximity_sensor_summary">Controllare il sensore di prossimità prima di eseguire l\'azione</string>
   <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
   <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
