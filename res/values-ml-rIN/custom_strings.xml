@@ -18,32 +18,32 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Title and summary -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Camera gesture -->
-  <!-- Chop-chop gesture -->
-  <!-- Hand wave silencer gesture -->
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">കൈ വീശല്‍</string>
-  <string name="hand_wave_gesture_summary">കൈ വീശുമ്പോള്‍ അറിയിപ്പുകള്‍ കാണിക്കുക</string>
-  <!-- Flip to mute gesture -->
-  <!-- Lift to silence gesture -->
-  <!-- Pick-up gesture -->
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">ഗസ്റ്ററുകൾ</string>
-  <!-- Device gestures -->
-  <!-- Ambient display gestures -->
-  <string name="ambient_display_title">വ്യാപിക്കുന്ന പ്രദര്‍ശനം</string>
-  <!-- Fingerprint gestures -->
-  <!-- Fingerprint gestures screen off -->
-  <!-- Actions -->
-  <string name="action_none">ഇല്ലാതാക്കുക</string>
-  <!-- Screen off gestures -->
-  <!-- Double tap to wake -->
-  <!-- Screen off gestures haptic feedback -->
-  <!-- Proximity sensor -->
-  <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
-  <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
-  <!-- Restart device -->
+    <!-- Title and summary -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">കൈ വീശല്‍</string>
+    <string name="hand_wave_gesture_summary">കൈ വീശുമ്പോള്‍ അറിയിപ്പുകള്‍ കാണിക്കുക</string>
+    <!-- Flip to mute gesture -->
+    <!-- Lift to silence gesture -->
+    <!-- Pick-up gesture -->
+    <!-- Device gestures panel -->
+    <string name="screen_gestures_panel_title">ഗസ്റ്ററുകൾ</string>
+    <!-- Device gestures -->
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_title">വ്യാപിക്കുന്ന പ്രദര്‍ശനം</string>
+    <!-- Fingerprint gestures -->
+    <!-- Fingerprint gestures screen off -->
+    <!-- Actions -->
+    <string name="action_none">ഇല്ലാതാക്കുക</string>
+    <!-- Screen off gestures -->
+    <!-- Double tap to wake -->
+    <!-- Screen off gestures haptic feedback -->
+    <!-- Proximity sensor -->
+    <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
+    <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+    <!-- Restart device -->
 </resources>

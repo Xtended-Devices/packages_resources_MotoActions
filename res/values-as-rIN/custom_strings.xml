@@ -18,32 +18,32 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Title and summary -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Label for feature switch [CHAR LIMIT=30] -->
-  <!-- Camera gesture -->
-  <!-- Chop-chop gesture -->
-  <!-- Hand wave silencer gesture -->
-  <!-- Hand wave gesture -->
-  <string name="hand_wave_gesture_title">হাত জোকাৰা</string>
-  <string name="hand_wave_gesture_summary">হাত জোকাৰিলে পালচ্‌ অধিসূচনা</string>
-  <!-- Flip to mute gesture -->
-  <!-- Lift to silence gesture -->
-  <!-- Pick-up gesture -->
-  <!-- Device gestures panel -->
-  <string name="screen_gestures_panel_title">ভঙ্গিমা</string>
-  <!-- Device gestures -->
-  <!-- Ambient display gestures -->
-  <string name="ambient_display_title">পৰিপাৰ্শ্বিক ডিচপ্লে</string>
-  <!-- Fingerprint gestures -->
-  <!-- Fingerprint gestures screen off -->
-  <!-- Actions -->
-  <string name="action_none">নিস্ক্ৰিয়</string>
-  <!-- Screen off gestures -->
-  <!-- Double tap to wake -->
-  <!-- Screen off gestures haptic feedback -->
-  <!-- Proximity sensor -->
-  <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
-  <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
-  <!-- Restart device -->
+    <!-- Title and summary -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <!-- Camera gesture -->
+    <!-- Chop-chop gesture -->
+    <!-- Hand wave silencer gesture -->
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">হাত জোকাৰা</string>
+    <string name="hand_wave_gesture_summary">হাত জোকাৰিলে পালচ্‌ অধিসূচনা</string>
+    <!-- Flip to mute gesture -->
+    <!-- Lift to silence gesture -->
+    <!-- Pick-up gesture -->
+    <!-- Device gestures panel -->
+    <string name="screen_gestures_panel_title">ভঙ্গিমা</string>
+    <!-- Device gestures -->
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_title">পৰিপাৰ্শ্বিক ডিচপ্লে</string>
+    <!-- Fingerprint gestures -->
+    <!-- Fingerprint gestures screen off -->
+    <!-- Actions -->
+    <string name="action_none">নিস্ক্ৰিয়</string>
+    <!-- Screen off gestures -->
+    <!-- Double tap to wake -->
+    <!-- Screen off gestures haptic feedback -->
+    <!-- Proximity sensor -->
+    <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
+    <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
+    <!-- Restart device -->
 </resources>
