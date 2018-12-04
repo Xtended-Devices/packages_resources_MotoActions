@@ -19,20 +19,37 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
+    <string name="moto_actions_title">ಮೋಟೋ ಕ್ರಿಯೆಗಳು</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">ಆನ್</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">ಆಫ್</string>
     <!-- Camera gesture -->
+    <string name="camera_gesture_title">ಡಬಲ್-ಟ್ವಿಸ್ಟ್</string>
+    <string name="camera_gesture_summary">ಡಬಲ್ ಟ್ವಿಸ್ಟ್ ಗೆಸ್ಚರ್ ಅನ್ನು ಬಳಸುವಾಗ ಕ್ಯಾಮೆರಾ ತೆರೆಯಿರಿ</string>
     <!-- Chop-chop gesture -->
+    <string name="chop_chop_gesture_title">ಚಾಪ್-ಚಾಪ್</string>
+    <string name="chop_chop_gesture_summary">ಚಾಪ್-ಚಾಪ್ ಗೆಸ್ಚರ್ ಬಳಸುವಾಗ ಬ್ಯಾಟರಿ ಟಾಗಲ್ ಮಾಡಿ</string>
     <!-- Hand wave silencer gesture -->
+    <string name="hand_wave_silencer_title">ವೇವ ಟು ಸೈಲೆನ್ಸ್</string>
+    <string name="hand_wave_silencer_summary">ನಿಮ್ಮ ಕೈಯನ್ನು ಪರದೆಯ ಮೇಲೆ ಬೀಸುವ ಮೂಲಕ ಒಳಬರುವ ಕರೆಗಳನ್ನು ನಿಲ್ಲಿಸಿ</string>
     <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">ಹ್ಯಾಂಡ್ ವೇವ್</string>
     <string name="hand_wave_gesture_summary">ಹ್ಯಾಂಡ್ ವೇವ್ ಮಾಡಿದಾಗ ಅಧಿಸೂಚನೆಗಳನ್ನು ಪಲ್ಸ್ ಮಾಡು</string>
     <!-- Flip to mute gesture -->
+    <string name="flip_to_mute_title">ಅಡಚಣೆ ಮಾಡಬೇಡದಕ್ಕಾಗಿ ಫ್ಲಿಪ್ ಮಾಡಿ</string>
+    <string name="flip_to_mute_summary">ಅಧಿಸೂಚನೆಗಳನ್ನು ಮತ್ತು ಕರೆಗಳನ್ನು ಮೌನಗೊಳಿಸಲು ಫೋನ್ ಮುಖವನ್ನು ಕೆಳಗೆ ಇರಿಸಿ</string>
     <!-- Lift to silence gesture -->
+    <string name="lift_to_silence_title">ರಿಂಗಿಂಗ್ ನಿಲ್ಲಿಸಲು ಫೋನ್ ಎತ್ತಿ</string>
+    <string name="lift_to_silence_summary">ಒಳಬರುವ ಕರೆಗಳನ್ನು ನಿಶ್ಯಬ್ದಗೊಳಿಸಲು ಫೋನ್ ಅನ್ನು ಮೇಲಕ್ಕೆತ್ತಿ. ನಿಮ್ಮ ಫೋನ್ ಫ್ಲಾಟ್ ಇರುವಾಗ ಮಾತ್ರ ಅದು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ</string>
     <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">ಎತ್ತು</string>
+    <string name="pick_up_gesture_summary">ಎತ್ತಿಕೊಂಡಾಗ ಅಧಿಸೂಚನೆಗಳನ್ನು ಪಲ್ಸ್ ಮಾಡು</string>
     <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">ಸನ್ನೆ</string>
     <!-- Device gestures -->
+    <string name="device_gestures_title">ಡಿವೈಸ್ ಗೆಸ್ಟುರ್ಸ್</string>
+    <string name="device_gestures_summary">ಡಿವೈಸ್ ಗೆಸ್ಟುರ್ಸ್ಗಳನ್ನೂ ನಿರ್ವಹಿಸು</string>
     <!-- Ambient display gestures -->
     <string name="ambient_display_title">ಆವರಿಸಿದ ಪರದೆ</string>
     <!-- Fingerprint gestures -->

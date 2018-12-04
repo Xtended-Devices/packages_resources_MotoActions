@@ -29,7 +29,7 @@
     <string name="camera_gesture_summary">当检测到两次转动操作时，打开相机</string>
     <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">旋转摇动</string>
-    <string name="chop_chop_gesture_summary">两次旋转摇动以切换手电筒</string>
+    <string name="chop_chop_gesture_summary">摇晃两次以切换手电筒</string>
     <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">挥手静音</string>
     <string name="hand_wave_silencer_summary">来电时用手挥过屏幕以静音</string>
@@ -64,14 +64,14 @@
     <string name="fingerprint_double_tap_dlg_title">双击行为</string>
     <string name="fingerprint_long_tap_title">长按</string>
     <string name="fingerprint_long_tap_dlg_title">长按行为</string>
-    <string name="fingerprint_swipe_left_title">左滑</string>
-    <string name="fingerprint_swipe_left_dlg_title">选择左滑行为</string>
-    <string name="fingerprint_swipe_right_title">右滑</string>
-    <string name="fingerprint_swipe_right_dlg_title">选择右滑行为</string>
+    <string name="fingerprint_swipe_left_title">向左滑动</string>
+    <string name="fingerprint_swipe_left_dlg_title">选择向左滑动行为</string>
+    <string name="fingerprint_swipe_right_title">向右滑动</string>
+    <string name="fingerprint_swipe_right_dlg_title">选择向右滑动行为</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">息屏指纹手势</string>
+    <string name="fingerprint_gestures_screenoff_title">屏幕关闭时指纹手势</string>
     <string name="fingerprint_gestures_screenoff_summary">屏幕关闭时使用指纹手势。\n\n必须禁用指纹解锁才能使用此功能。</string>
-    <string name="fingerprint_actions_screenoff">息屏动作</string>
+    <string name="fingerprint_actions_screenoff">屏幕关闭时的动作</string>
     <!-- Actions -->
     <string name="action_none">禁用</string>
     <string name="action_home">主屏幕</string>
@@ -80,36 +80,36 @@
     <string name="action_back">返回</string>
     <string name="action_recents">最近任务</string>
     <string name="action_last_app">最后使用的应用</string>
-    <string name="action_volume_up">音量增大</string>
-    <string name="action_volume_down">音量减小</string>
+    <string name="action_volume_up">增大音量</string>
+    <string name="action_volume_down">减小音量</string>
     <string name="action_voice_assistant">语音助手</string>
     <string name="action_play_pause">播放/暂停</string>
-    <string name="action_previous_track">上一首</string>
-    <string name="action_next_track">下一首</string>
+    <string name="action_previous_track">上一首曲目</string>
+    <string name="action_next_track">下一首曲目</string>
     <string name="action_flashlight">手电筒 开/关</string>
     <string name="action_camera">打开相机</string>
-    <string name="action_screenshot">截屏</string>
+    <string name="action_screenshot">屏幕截图</string>
     <string name="action_browser">打开浏览器</string>
     <string name="action_dialer">打开拨号器</string>
     <string name="action_email">打开电子邮件应用</string>
     <string name="action_messages">打开消息应用</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_title">熄屏手势</string>
-    <string name="screen_off_gestures_manage_summary">管理息屏手势</string>
+    <string name="screen_off_gestures_title">屏幕关闭时的手势</string>
+    <string name="screen_off_gestures_manage_summary">管理屏幕关闭时的手势</string>
     <string name="screen_off_gestures_swipe_left_title">向左滑动</string>
-    <string name="screen_off_gestures_swipe_left_dlg_title">左滑动作</string>
+    <string name="screen_off_gestures_swipe_left_dlg_title">选择向左滑动行为</string>
     <string name="screen_off_gestures_swipe_right_title">向右滑动</string>
-    <string name="screen_off_gestures_swipe_right_dlg_title">右滑动作</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">选择向右滑动行为</string>
     <string name="screen_off_gestures_swipe_up_title">向上滑动</string>
-    <string name="screen_off_gestures_swipe_up_dlg_title">上滑动作</string>
+    <string name="screen_off_gestures_swipe_up_dlg_title">选择向上滑动行为</string>
     <string name="screen_off_gestures_swipe_down_title">向下滑动</string>
-    <string name="screen_off_gestures_swipe_down_dlg_title">下滑动作</string>
+    <string name="screen_off_gestures_swipe_down_dlg_title">选择向下滑动行为</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">点击以唤醒</string>
     <string name="tap_to_wake_summary">双击屏幕唤醒设备</string>
     <!-- Screen off gestures haptic feedback -->
-    <string name="haptic_feedback">触觉反馈</string>
-    <string name="haptic_feedback_summary">当检测到触摸屏手势时振动</string>
+    <string name="haptic_feedback">震动反馈</string>
+    <string name="haptic_feedback_summary">当检测到触摸屏幕手势时振动</string>
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">打开距离传感器</string>
     <string name="allow_proximity_sensor_summary">在执行操作前检查距离传感器</string>

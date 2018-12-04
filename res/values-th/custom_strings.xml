@@ -48,11 +48,11 @@
     <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">ท่าทาง</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">ท่าทางสัมพัสอุปกรณ์</string>
-    <string name="device_gestures_summary">จัดการท่าทางสัมพัสอุปกรณ์</string>
+    <string name="device_gestures_title">ท่าทางสัมผัสอุปกรณ์</string>
+    <string name="device_gestures_summary">จัดการท่าทางสัมผัสอุปกรณ์</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_title">หน้าจอแวดล้อม</string>
-    <string name="ambient_display_manage_summary">ตัจัดการหน้าจอการแจ้งเตือนอัตโนมัติเมื่อเราหยิบเครื่องหรือสัมพัสหน้าจอ</string>
+    <string name="ambient_display_title">หน้าจอ Ambient</string>
+    <string name="ambient_display_manage_summary">ตัวจัดการหน้าจอการแจ้งเตือนอัตโนมัติเมื่อเราหยิบเครื่องหรือสัมผัสหน้าจอ</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">รูปแบบของลายนิ้วมือ</string>
     <string name="fingerprint_gestures_summary">ใช้รูปแบบของลายนิ้วมือ</string>
@@ -70,19 +70,19 @@
     <string name="fingerprint_swipe_right_dlg_title">เลือกการกระทำสำหรับปัดไปทางขวา</string>
     <!-- Fingerprint gestures screen off -->
     <string name="fingerprint_gestures_screenoff_title">รูปแบบของลายนิ้วมือ เมื่อหน้าจอปิด</string>
-    <string name="fingerprint_gestures_screenoff_summary">ใช้รูปแบบของลายนิ้วมือ เมื่อหน้าจอปิด \n\n ต้องปิดรูปแบบของลายนิ้วมือปลดล็อก เพื่อเปิดใช้ฟังก์ชันนี้</string>
-    <string name="fingerprint_actions_screenoff">แสองเมื่อปิดหน้าจอ</string>
+    <string name="fingerprint_gestures_screenoff_summary">ใช้รูปแบบของลายนิ้วมือ เมื่อหน้าจอปิด \n\n ต้องปิดการใช้งานรูปแบบของลายนิ้วมือปลดล็อก เพื่อเปิดใช้งานฟังก์ชันนี้</string>
+    <string name="fingerprint_actions_screenoff">แสดงเมื่อปิดหน้าจอ</string>
     <!-- Actions -->
-    <string name="action_none">ปิด</string>
+    <string name="action_none">ไม่มี</string>
     <string name="action_home">หน้าแรก</string>
-    <string name="action_power">หน้าจอเปิด/ปิด</string>
+    <string name="action_power">หน้าจอ เปิด/ปิด</string>
     <string name="action_wake">ตื่น</string>
     <string name="action_back">กลับ</string>
     <string name="action_recents">ล่า​สุด</string>
     <string name="action_last_app">แอปล่าสุด</string>
     <string name="action_volume_up">ปรับเสียงขึ้น</string>
     <string name="action_volume_down">ปรับเสียงลง</string>
-    <string name="action_voice_assistant">ผู้ช่วยเสียง</string>
+    <string name="action_voice_assistant">Google assistant</string>
     <string name="action_play_pause">เล่น/หยุด</string>
     <string name="action_previous_track">แทร็กก่อนหน้า</string>
     <string name="action_next_track">แทร็คถัดไป</string>

@@ -34,6 +34,10 @@
     <!-- Fingerprint gestures -->
     <!-- Fingerprint gestures screen off -->
     <!-- Actions -->
+    <string name="action_back">Հետ</string>
+    <string name="action_last_app">Վերջին հավելվածը</string>
+    <string name="action_volume_up">Ավելացնել ձայնը</string>
+    <string name="action_volume_down">Պակասեցնել ձայնը</string>
     <!-- Screen off gestures -->
     <!-- Double tap to wake -->
     <!-- Screen off gestures haptic feedback -->
