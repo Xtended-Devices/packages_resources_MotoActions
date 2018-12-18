@@ -46,9 +46,9 @@
     <string name="pick_up_gesture_title">รับ</string>
     <string name="pick_up_gesture_summary">เช็คการแจ้งเตือนเมื่อหยิบ</string>
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">ท่าทาง</string>
+    <string name="screen_gestures_panel_title">เจสเจอร์</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">ท่าทางสัมผัสอุปกรณ์</string>
+    <string name="device_gestures_title">ท่าทางการสัมผัสอุปกรณ์</string>
     <string name="device_gestures_summary">จัดการท่าทางสัมผัสอุปกรณ์</string>
     <!-- Ambient display gestures -->
     <string name="ambient_display_title">หน้าจอ Ambient</string>
@@ -82,7 +82,7 @@
     <string name="action_last_app">แอปล่าสุด</string>
     <string name="action_volume_up">ปรับเสียงขึ้น</string>
     <string name="action_volume_down">ปรับเสียงลง</string>
-    <string name="action_voice_assistant">Google assistant</string>
+    <string name="action_voice_assistant">ผู้ช่วยเสียง</string>
     <string name="action_play_pause">เล่น/หยุด</string>
     <string name="action_previous_track">แทร็กก่อนหน้า</string>
     <string name="action_next_track">แทร็คถัดไป</string>

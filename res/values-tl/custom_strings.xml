@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Actions</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <!-- Camera gesture -->
@@ -34,6 +35,7 @@
     <!-- Fingerprint gestures -->
     <!-- Fingerprint gestures screen off -->
     <!-- Actions -->
+    <string name="action_none">Wala</string>
     <!-- Screen off gestures -->
     <!-- Double tap to wake -->
     <!-- Screen off gestures haptic feedback -->

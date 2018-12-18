@@ -19,17 +19,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
-    <string name="moto_actions_title">Дії Moto</string>
+    <string name="moto_actions_title">Додаткові жести</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Увімкнено</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Вимкнено</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">Подвійний поворот</string>
+    <string name="camera_gesture_title">Подвійне обертання</string>
     <string name="camera_gesture_summary">Запускати додаток камери при подвійному обертанні</string>
     <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Струс</string>
-    <string name="chop_chop_gesture_summary">Увімкнути або вимкнути ліхтарик при струсі</string>
+    <string name="chop_chop_gesture_summary">Увімкнути або вимкнути ліхтарик при постукуванні</string>
     <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">Помах рукою для вимикання звуку</string>
     <string name="hand_wave_silencer_summary">Приглушити звук виклику, провівши рукою над екраном</string>

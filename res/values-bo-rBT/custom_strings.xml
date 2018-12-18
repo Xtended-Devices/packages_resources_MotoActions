@@ -19,21 +19,75 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
+    <string name="moto_actions_title">Moto བྱ་སྤྱོད།</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">ཁ་འབྱེད།</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">ཁ་རྒྱག</string>
     <!-- Camera gesture -->
+    <string name="camera_gesture_title">ཐེངས་གཉིས་ལ་གཡོ་བ།</string>
+    <string name="camera_gesture_summary">ཐེངས་གཉིས་ལ་བསྐོར་བ་ཚོར་རྗེས་པར་ཆས་ཀྱི་ཁ་འབྱེད་པ།</string>
     <!-- Chop-chop gesture -->
+    <string name="chop_chop_gesture_title">བསྐོར་བའམ་གཡོ་བ།</string>
+    <string name="chop_chop_gesture_summary">ཐེངས་གཉིས་གཡོ་སྒུལ་བྱས་པ་ལས་གློག་སྒྲོན་ཁ་འབྱེད་པ།</string>
     <!-- Hand wave silencer gesture -->
+    <string name="hand_wave_silencer_title">ལག་པ་གཡུག་པས་སྒྲ་མེད་པར་བཟོ་བ།</string>
+    <string name="hand_wave_silencer_summary">ཁ་པར་འབྱོར་དུས་ལག་པས་བརྙན་ཤེལ་ཐོག་ནས་ཕར་དྲུད་ན་སྒྲ་མེད་པར་བཟོ་བ།</string>
     <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">ལག་གཡུག་པ།</string>
+    <string name="hand_wave_gesture_summary">ལག་པ་གཡུག་དུས་བརྙན་ཤེལ་ཁ་འབྱེད་པ།</string>
     <!-- Flip to mute gesture -->
+    <string name="flip_to_mute_title">སྟེང་འོག་བསྒྱུར་ནས་སུན་འགོག་དཔེ་ཚུལ་ཁ་འབྱེད་པ།</string>
+    <string name="flip_to_mute_summary">ཁ་པར་གྱི་ཁ་མར་སྐོར་ནས་ཁ་པར་དང་བརྡ་ཐོའི་སྒྲ་མེད་པར་བཟོ་བ།</string>
     <!-- Lift to silence gesture -->
+    <string name="lift_to_silence_title">ཁ་པར་ལག་ལ་བླངས་རྗེས་དྲིལ་སྒྲ་མི་གྲགས་པ།</string>
+    <string name="lift_to_silence_summary">ཁ་པར་ལག་ལ་བླངས་རྗེས་དྲིལ་སྒྲ་མི་གྲགས་པ། འདི་ཁྱེད་ཀྱིས་ཁ་པར་ལག་ལ་བཟུང་ཡོད་པའི་སྐབས་སུ་ད་གཟོད་ཁ་འབྱེད་པ་ཡིན།</string>
     <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">ལག་ལ་ལེན་པ།</string>
+    <string name="pick_up_gesture_summary">ཁ་པར་ལག་ལ་བླངས་ན་བརྙན་ཤེལ་ཁ་འབྱེད་པ།</string>
     <!-- Device gestures panel -->
+    <string name="screen_gestures_panel_title">ལག་བརྡ།</string>
     <!-- Device gestures -->
+    <string name="device_gestures_title">སྒྲིག་ཆས་ཀྱི་ལག་བརྡ།</string>
+    <string name="device_gestures_summary">སྒྲིག་ཆས་ཀྱི་ལག་བརྡར་དོ་དམ།</string>
     <!-- Ambient display gestures -->
+    <string name="ambient_display_title">རང་འགུལ་གྱིས་འཆར་བ།</string>
+    <string name="ambient_display_manage_summary">རང་འགུལ་གྱིས་འཆར་བའི་ལག་བརྡར་དོོ་དམ།</string>
     <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">མཛུབ་རིས་ཀྱི་ལག་བརྡ།</string>
+    <string name="fingerprint_gestures_summary">མཛུབ་རིས་ཀྱི་ལག་བརྡ་སྤྱོད།</string>
+    <string name="fingerprint_gestures_manage_summary">མཛུབ་རིས་ཀྱི་ལག་བརྡར་དོ་དམ།</string>
+    <string name="fingerprint_actions_screenon">བརྙན་ཤེལ་ཁ་འབྱེད་སྟངས།</string>
+    <string name="fingerprint_tap_title">ཆིག་རྡེབ།</string>
+    <string name="fingerprint_tap_dlg_title">ཆིག་རྡེབ་ཀྱི་བྱེད་ནུས།</string>
+    <string name="fingerprint_double_tap_title">ཉིས་རྡེབ།</string>
+    <string name="fingerprint_double_tap_dlg_title">ཉིས་རྡེབ་ཀྱི་བྱེད་ནུས།</string>
+    <string name="fingerprint_long_tap_title">ཡུན་རིང་བར་ནོན་པ།</string>
+    <string name="fingerprint_long_tap_dlg_title">ཡུན་རིང་བོར་མནན་པའི་བྱེད་ནུས།</string>
+    <string name="fingerprint_swipe_left_title">གཡོན་དུ་འདྲུད་པ།</string>
+    <string name="fingerprint_swipe_left_dlg_title">གཡོན་དུ་དྲུད་པའི་བྱེད་ནུས་འདེམས་རོགས།</string>
+    <string name="fingerprint_swipe_right_title">གཡས་སུ་འདྲུད་པ།</string>
+    <string name="fingerprint_swipe_right_dlg_title">གཡས་སུ་དྲུད་པའི་བྱེད་ནུས་འདེམས་རོགས།</string>
     <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">བརྙན་ཤེལ་ཁ་བརྒྱབ་པའི་སྐབས་ཀྱི་མཛུབ་རིས་ཀྱི་ལག་བརྡ།</string>
+    <string name="fingerprint_gestures_screenoff_summary">བརྙན་ཤེལ་ཁ་བརྒྱབ་དུས་མཛུབ་རིས་ཀྱི་ལག་བརྡ་སྤྱོད། \n\n མཛུབ་རིས་ཀྱིས་བརྙན་ཤེལ་ཟྭ་འབྱེད་མཚམས་བཞག་ན་ད་གཟོད་བྱེད་ནུས་འདི་སྤྱོད་ཐུབ།</string>
+    <string name="fingerprint_actions_screenoff">བརྙན་ཤེལ་ཁ་བརྒྱབ་པའི་སྐབས་ཀྱི་བྱེད་ནུས།</string>
     <!-- Actions -->
+    <string name="action_none">གཅིག་ཀྱང་མེད།</string>
+    <string name="action_home">གཙོ་ངོས།</string>
+    <string name="action_power">བརྙན་ཤེལ་གྱི་ཁ་འབྱེད་པའམ་ཁ་རྒྱག་པ།</string>
+    <string name="action_wake">ཁ་འབྱེད་པ།</string>
+    <string name="action_back">ཕྱིར་ལོག</string>
+    <string name="action_recents">ཉེ་ཆར་གྱི་བྱ་རིམ།</string>
+    <string name="action_last_app">ཐེངས་སྔོན་མའི་བྱ་རིམ།</string>
+    <string name="action_volume_up">སྒྲ་ཆེ་བར་གཏོང་བ།</string>
+    <string name="action_volume_down">སྒྲྲ་ཆུང་བར་གཏོང་བ།</string>
+    <string name="action_voice_assistant">སྐད་བརྡའི་ལག་རོགས།</string>
+    <string name="action_play_pause">གཏོང་སྤྲོད།/སྐབས་སྡོད།</string>
+    <string name="action_previous_track">གཞས་སྔོན་མ།</string>
+    <string name="action_next_track">གཞས་རྗེས་མ།</string>
+    <string name="action_flashlight">གློག་སྒྲོན།  ཁ་འབྱེད་པའམ་ཁ་རྒྱག་པ།</string>
+    <string name="action_camera">པར་ཆས་ཀྱི་ཁ་འབྱེད།</string>
     <!-- Screen off gestures -->
     <!-- Double tap to wake -->
     <!-- Screen off gestures haptic feedback -->

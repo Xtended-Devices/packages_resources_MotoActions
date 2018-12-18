@@ -84,25 +84,25 @@
     <string name="action_volume_down">ভলিউম কমান</string>
     <string name="action_voice_assistant">ভয়েস অ্যাসিস্ট্যান্ট</string>
     <string name="action_play_pause">চালান/বিরতি</string>
-    <string name="action_previous_track">পূর্বের ট্র্যাক</string>
-    <string name="action_next_track">পরবর্তী ট্র্যাক</string>
-    <string name="action_flashlight">ফ্লাশলাইট চালু/বন্ধ</string>
+    <string name="action_previous_track">আগের গান</string>
+    <string name="action_next_track">পরের গান</string>
+    <string name="action_flashlight">উজ্জ্বল বাতি চালু/বন্ধ</string>
     <string name="action_camera">ক্যামেরা খুলুন</string>
-    <string name="action_screenshot">স্ক্রীনশট নিন</string>
+    <string name="action_screenshot">স্ক্রীনের স্থির চিত্র নিন</string>
     <string name="action_browser">ব্রাউজার খুলুন</string>
-    <string name="action_dialer">ডায়ালার ওপেন করুন</string>
+    <string name="action_dialer">ডায়ালার খুলুন</string>
     <string name="action_email">ই-মেইল অ্যাপ খুলুন</string>
-    <string name="action_messages">বার্তা অ্যাপ খুলুন</string>
+    <string name="action_messages">বার্তার অ্যাপ খুলুন</string>
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">আকৃতির মাধ্যমে স্কিন বন্ধ করুন</string>
     <string name="screen_off_gestures_manage_summary">স্ক্রিন বন্ধ অবস্থার আকার-ইঙ্গিত পরিচালনা করুন</string>
-    <string name="screen_off_gestures_swipe_left_title">বামে সোয়াইপ করুন</string>
+    <string name="screen_off_gestures_swipe_left_title">বাঁদিকে টানুন</string>
     <string name="screen_off_gestures_swipe_left_dlg_title">বামে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
-    <string name="screen_off_gestures_swipe_right_title">তাই সোয়াইপ করুন</string>
+    <string name="screen_off_gestures_swipe_right_title">ডাইনে টানুন</string>
     <string name="screen_off_gestures_swipe_right_dlg_title">ডানে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
-    <string name="screen_off_gestures_swipe_up_title">উপরে সোয়াইপ করুন</string>
+    <string name="screen_off_gestures_swipe_up_title">উপরে টানুন</string>
     <string name="screen_off_gestures_swipe_up_dlg_title">উপরে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
-    <string name="screen_off_gestures_swipe_down_title">নীচে সোয়াইপ করুন</string>
+    <string name="screen_off_gestures_swipe_down_title">নিচে টানুন</string>
     <string name="screen_off_gestures_swipe_down_dlg_title">নিচে সোয়াইপের জন্য ক্রিয়া নির্বাচন করুন</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">জাগিয়ে তুলতে ট্যাপ করুন</string>
@@ -112,7 +112,7 @@
     <string name="haptic_feedback_summary">টাচস্ক্রীনে অঙ্গভঙ্গি শনাক্ত হলে কম্পিত হবে</string>
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">প্রক্সিমিটি সেন্সর অনুমোদন করুন</string>
-    <string name="allow_proximity_sensor_summary">কর্মটি শুরু করার আগে প্রক্সিমিটি সেন্সর পরীক্ষা করুন</string>
+    <string name="allow_proximity_sensor_summary">কার্যটি শুরু করার আগে সান্নিধ্য পরীক্ষা করুন</string>
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->

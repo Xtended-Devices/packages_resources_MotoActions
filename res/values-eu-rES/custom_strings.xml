@@ -19,6 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Ekintzak</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Bai</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -47,17 +48,73 @@
     <!-- Device gestures panel -->
     <string name="screen_gestures_panel_title">Keinuak</string>
     <!-- Device gestures -->
+    <string name="device_gestures_title">Mugikorraren keinuak</string>
+    <string name="device_gestures_summary">Mugikorraren keinuak kudeatu</string>
     <!-- Ambient display gestures -->
     <string name="ambient_display_title">Ambient display</string>
+    <string name="ambient_display_manage_summary">Ambient Displai keinuak kudeatu</string>
     <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">hatz-aztarnaren sentsorea</string>
+    <string name="fingerprint_gestures_summary">Hatz-marken erabilera</string>
+    <string name="fingerprint_gestures_manage_summary">Hatz-marken erabilera</string>
+    <string name="fingerprint_actions_screenon">Pantaila piztuta dagoenean ezkintzak</string>
+    <string name="fingerprint_tap_title">Ukitu bat</string>
+    <string name="fingerprint_tap_dlg_title">Ze gertatzen da ukitu bat egiterakoan</string>
+    <string name="fingerprint_double_tap_title">Bi ikutu</string>
+    <string name="fingerprint_double_tap_dlg_title">Ze gertatzen da bi ukitukin</string>
+    <string name="fingerprint_long_tap_title">Luze sakatu</string>
+    <string name="fingerprint_long_tap_dlg_title">Ze gertatzen da luze sakatzerakoan</string>
+    <string name="fingerprint_swipe_left_title">Ezkerrerantz irristatu</string>
+    <string name="fingerprint_swipe_left_dlg_title">Ze gertatzen ezkerrerantz irristatzerakoan</string>
+    <string name="fingerprint_swipe_right_title">Eskubirantz irristatu</string>
+    <string name="fingerprint_swipe_right_dlg_title">Ze gertatzen ezkerrerantz irristatzerakoan</string>
     <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Pantaila hitzalitakin hatz-marka sentsorea</string>
+    <string name="fingerprint_gestures_screenoff_summary">Erabili hatz-marka sentsorea pantaila itzalita dagoenean. \n \n Ezaugarri hau erabili ahal izateko hatz-marka bidez mugikorra desblokeatzeko ezgaituta egon behar da.</string>
+    <string name="fingerprint_actions_screenoff">Pantaila itzalitakin ekintzak</string>
     <!-- Actions -->
     <string name="action_none">Ezgaitu</string>
+    <string name="action_home">Etxea</string>
+    <string name="action_power">Pantaila piztu/itzali</string>
+    <string name="action_wake">Esnatu</string>
+    <string name="action_back">Atzera</string>
+    <string name="action_recents">Azkenak</string>
+    <string name="action_last_app">Azken aplikazioa</string>
+    <string name="action_volume_up">Bolumena Igo</string>
+    <string name="action_volume_down">Bolumena jaitzi</string>
+    <string name="action_voice_assistant">Ahots laguntzailea</string>
+    <string name="action_play_pause">Hasi/eten</string>
+    <string name="action_previous_track">Aurreko pista</string>
+    <string name="action_next_track">Hurrengo pista</string>
+    <string name="action_flashlight">Linterna piztu/itzali</string>
+    <string name="action_camera">Ireki kamera</string>
+    <string name="action_screenshot">Pantaila-argazkia egin</string>
+    <string name="action_browser">Nabigatzailean ireki</string>
+    <string name="action_dialer">Markagailua ireki</string>
+    <string name="action_email">Ireki email-aren aplikazioa</string>
+    <string name="action_messages">Ireki mezuak</string>
     <!-- Screen off gestures -->
+    <string name="screen_off_gestures_title">Pantaila itzalitan keinuak</string>
+    <string name="screen_off_gestures_manage_summary">Kudeatu keinuak pantaila itzalita dagoenean</string>
+    <string name="screen_off_gestures_swipe_left_title">Ezkerrerantz irristatu</string>
+    <string name="screen_off_gestures_swipe_left_dlg_title">Ze gertatzen ezkerrerantz irristatzerakoan</string>
+    <string name="screen_off_gestures_swipe_right_title">Eskubirantz irristatu</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">Ze gertatzen ezkerrerantz irristatzerakoan</string>
+    <string name="screen_off_gestures_swipe_up_title">Gorantz irriztatu</string>
+    <string name="screen_off_gestures_swipe_up_dlg_title">Ze gertatzen gorantz irristatzerakoan</string>
+    <string name="screen_off_gestures_swipe_down_title">Pasatu hatza behera</string>
+    <string name="screen_off_gestures_swipe_down_dlg_title">Ze gertatzen beraka irristatzerakoan</string>
     <!-- Double tap to wake -->
+    <string name="tap_to_wake">Sakatu aktibatzeko</string>
+    <string name="tap_to_wake_summary">Sakatu birritan pantailako edozein puntu gailua aktibatzeko</string>
     <!-- Screen off gestures haptic feedback -->
+    <string name="haptic_feedback">Erantzun haptikoa</string>
+    <string name="haptic_feedback_summary">Bibratu ukimen-pantailaren keinu bat antzematean</string>
     <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">Gertutasun sentsorea gaitu</string>
+    <string name="allow_proximity_sensor_summary">Gertutasun sentsorea egiaztatu ekintza egin bano lehen</string>
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->
+    <string name="restart_needed">Mugikorra itzali ta berriro piztu egin behar da ezarpenak gordetzeko, itzali orain?</string>
 </resources>
