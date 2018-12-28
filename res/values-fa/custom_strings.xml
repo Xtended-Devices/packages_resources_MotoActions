@@ -46,10 +46,10 @@
     <string name="pick_up_gesture_title">برداشتن</string>
     <string name="pick_up_gesture_summary">چشمک زدن اعلان ها هنگام برداشتن گوشی</string>
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">حرکات</string>
+    <string name="screen_gestures_panel_title">ژست‌ها</string>
     <!-- Device gestures -->
-    <string name="device_gestures_title">حرکات دستگاه</string>
-    <string name="device_gestures_summary">مدیریت حرکات دستگاه</string>
+    <string name="device_gestures_title">ژست‌های دستگاه</string>
+    <string name="device_gestures_summary">مدیریت ژست های دستگاه</string>
     <!-- Ambient display gestures -->
     <string name="ambient_display_title">نمایش حساس به محیط</string>
     <string name="ambient_display_manage_summary">مدیریت حرکات نمایشگر محیطی</string>

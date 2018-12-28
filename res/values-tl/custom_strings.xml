@@ -29,6 +29,7 @@
     <!-- Flip to mute gesture -->
     <!-- Lift to silence gesture -->
     <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Kunin</string>
     <!-- Device gestures panel -->
     <!-- Device gestures -->
     <!-- Ambient display gestures -->
@@ -36,6 +37,10 @@
     <!-- Fingerprint gestures screen off -->
     <!-- Actions -->
     <string name="action_none">Wala</string>
+    <string name="action_volume_up">Taasan ang volume</string>
+    <string name="action_volume_down">Babaan ang volume</string>
+    <string name="action_camera">Buksan ang kamera</string>
+    <string name="action_messages">Buksan ang messages app</string>
     <!-- Screen off gestures -->
     <!-- Double tap to wake -->
     <!-- Screen off gestures haptic feedback -->

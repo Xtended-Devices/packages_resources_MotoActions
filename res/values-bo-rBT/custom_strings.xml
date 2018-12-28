@@ -81,18 +81,40 @@
     <string name="action_recents">ཉེ་ཆར་གྱི་བྱ་རིམ།</string>
     <string name="action_last_app">ཐེངས་སྔོན་མའི་བྱ་རིམ།</string>
     <string name="action_volume_up">སྒྲ་ཆེ་བར་གཏོང་བ།</string>
-    <string name="action_volume_down">སྒྲྲ་ཆུང་བར་གཏོང་བ།</string>
+    <string name="action_volume_down">སྒྲ་ཆུང་བར་གཏོང་བ།</string>
     <string name="action_voice_assistant">སྐད་བརྡའི་ལག་རོགས།</string>
     <string name="action_play_pause">གཏོང་སྤྲོད།/སྐབས་སྡོད།</string>
     <string name="action_previous_track">གཞས་སྔོན་མ།</string>
     <string name="action_next_track">གཞས་རྗེས་མ།</string>
     <string name="action_flashlight">གློག་སྒྲོན།  ཁ་འབྱེད་པའམ་ཁ་རྒྱག་པ།</string>
     <string name="action_camera">པར་ཆས་ཀྱི་ཁ་འབྱེད།</string>
+    <string name="action_screenshot">བརྙན་ཤེལ་གྱི་བཅད་རིས།</string>
+    <string name="action_browser">བཤེར་ཆས་ཀྱི་ཁ་འབྱེད།</string>
+    <string name="action_dialer">ཨང་འབོད་ཀྱི་ཁ་ཕྱེ།</string>
+    <string name="action_email">ཡིག་ཟམ་གྱི་ཁ་ཕྱེ།</string>
+    <string name="action_messages">བརྡ་འཕྲིན་གྱི་ཁ་ཕྱེ།</string>
     <!-- Screen off gestures -->
+    <string name="screen_off_gestures_title">བརྙན་ཤེལ་བརྒྱབ་དུས་ཀྱི་ལག་བརྡ།</string>
+    <string name="screen_off_gestures_manage_summary">བརྙན་ཤེལ་བརྒྱབ་དུས་ཀྱི་ལག་བརྡར་དོ་དམ།</string>
+    <string name="screen_off_gestures_swipe_left_title">གཡོན་དུ་འདྲུད་པ།</string>
+    <string name="screen_off_gestures_swipe_left_dlg_title">གཡོན་དུ་དྲུད་པའི་བྱེད་ནུས་འདེམས་རོགས།</string>
+    <string name="screen_off_gestures_swipe_right_title">གཡས་སུ་འདྲུད་པ།</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">གཡས་སུ་དྲུད་པའི་བྱེད་ནུས་འདེམས་རོགས།</string>
+    <string name="screen_off_gestures_swipe_up_title">མར་འདེད་པ།</string>
+    <string name="screen_off_gestures_swipe_up_dlg_title">མར་འདེད་པའི་བྱེད་ནུས་འདེམས་རོགས།</string>
+    <string name="screen_off_gestures_swipe_down_title">མར་འདེད་པ།</string>
+    <string name="screen_off_gestures_swipe_down_dlg_title">མར་འདེད་པའི་བྱེད་ནུས་འདེམས་རོགས།</string>
     <!-- Double tap to wake -->
+    <string name="tap_to_wake">ཆིག་རྡེབ་བྱས་པས་གློག་འཆར་བ།</string>
+    <string name="tap_to_wake_summary">ཉིས་རྡེབ་བྱས་པས་གློག་འཆར་བ།</string>
     <!-- Screen off gestures haptic feedback -->
+    <string name="haptic_feedback">འདར་འགུལ་གྱིས་ཚུར་སྣང་བྱེད།</string>
+    <string name="haptic_feedback_summary">བརྙན་ཤེལ་གྱི་ལག་བརྡ་ཚོར་དུས་འདར་འགུལ་བྱེད་པ།</string>
     <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">བར་ཐག་བརྒྱུད་ཁྲིད་ཆས་ཀྱི་ཁ་འབྱེད་པ།</string>
+    <string name="allow_proximity_sensor_summary">ལག་བསྟར་མ་བྱས་གོང་བར་ཐག་བརྒྱུད་ཁྲིད་ཆས་ལ་ཞིབ་བཤེར་བྱེད་པ།</string>
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->
+    <string name="restart_needed">སྒྲིག་ཆས་བསྐྱར་སློང་བྱས་ན་ད་གཟོད་སྒྲིག་འགོད་འདི་དག་ཉེར་སྤྱོད་བྱེད་ཐུུབ།  བསྐྱར་སློང་བྱེད་དམ།</string>
 </resources>
