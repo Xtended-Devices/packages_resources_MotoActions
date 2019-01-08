@@ -19,7 +19,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
-    <string name="moto_actions_title">Дополнительные жесты</string>
+    <string name="moto_actions_title">Жесты Moto</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Включено</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -54,10 +54,10 @@
     <string name="ambient_display_title">Активный экран</string>
     <string name="ambient_display_manage_summary">Управление жестами активного экрана</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Жесты сканера отпечатков пальцев</string>
+    <string name="fingerprint_gestures_title">Жесты сканера отпечатков</string>
     <string name="fingerprint_gestures_summary">Использовать жесты сканера отпечатков пальцев</string>
     <string name="fingerprint_gestures_manage_summary">Управление жестами сканера отпечатков пальцев</string>
-    <string name="fingerprint_actions_screenon">Действия при вкл. экране</string>
+    <string name="fingerprint_actions_screenon">Действия при включенном экране</string>
     <string name="fingerprint_tap_title">Одиночное нажатие</string>
     <string name="fingerprint_tap_dlg_title">Выбрать действие для одиночного нажатия</string>
     <string name="fingerprint_double_tap_title">Двойное нажатие</string>

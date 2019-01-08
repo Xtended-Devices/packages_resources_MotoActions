@@ -26,7 +26,7 @@
     <string name="switch_bar_off">Pois käytöstä</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Tuplakierre</string>
-    <string name="camera_gesture_summary">Avaa kamera kiertäessä laite kahdesti</string>
+    <string name="camera_gesture_summary">Avaa kamera kiertämällä laitetta kahdesti</string>
     <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Leikkaa</string>
     <string name="chop_chop_gesture_summary">Avaa taskulamppu leikkauseleellä</string>
@@ -51,7 +51,7 @@
     <string name="device_gestures_title">Laite-eleet</string>
     <string name="device_gestures_summary">Hallitse laite-eleitä</string>
     <!-- Ambient display gestures -->
-    <string name="ambient_display_title">Ambient-näyttö</string>
+    <string name="ambient_display_title">Ambient näyttö</string>
     <string name="ambient_display_manage_summary">Hallitse ympäristöeleitä</string>
     <!-- Fingerprint gestures -->
     <string name="fingerprint_gestures_title">Sormenjälkieleet</string>
