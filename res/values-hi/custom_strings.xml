@@ -105,8 +105,13 @@
     <string name="screen_off_gestures_swipe_down_title">निचे स्वाइप करें</string>
     <string name="screen_off_gestures_swipe_down_dlg_title">नीचे स्वाइप के लिए क्रिया का चयन करें</string>
     <!-- Double tap to wake -->
+    <string name="tap_to_wake">चालू करने के लिए दो बार दबाएं</string>
+    <string name="tap_to_wake_summary">फोन को चालू करने के लिए स्क्रीन पर दो बार दबाएं</string>
     <!-- Screen off gestures haptic feedback -->
+    <string name="haptic_feedback">स्पर्श प्रतिक्रिया</string>
+    <string name="haptic_feedback_summary">जब भी स्क्रीन पर कोई इशारा पता चलने पर वाइब्रेट हो</string>
     <!-- Proximity sensor -->
+    <string name="allow_proximity_sensor_title">निकटता सेंसर को मंज़ूरी दें</string>
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->

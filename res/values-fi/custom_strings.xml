@@ -54,7 +54,7 @@
     <string name="ambient_display_title">Ambient näyttö</string>
     <string name="ambient_display_manage_summary">Hallitse ympäristöeleitä</string>
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Sormenjälkieleet</string>
+    <string name="fingerprint_gestures_title">Sormenjälki toiminnot</string>
     <string name="fingerprint_gestures_summary">Käytä sormenjälkieleitä</string>
     <string name="fingerprint_gestures_manage_summary">Hallitse sormenjälkieleitä</string>
     <string name="fingerprint_actions_screenon">Toiminnot näytön ollessa päällä</string>
@@ -73,7 +73,7 @@
     <string name="fingerprint_gestures_screenoff_summary">Käytä sormenjälkieleitä, näytön ollessa suljettuna.\n\nSormenjälkiavauksen täytyy olla poistettuna käytöstä, jotta voit käyttää tätä ominaisuutta.</string>
     <string name="fingerprint_actions_screenoff">Toiminnot näytön ollessa suljettu</string>
     <!-- Actions -->
-    <string name="action_none">Poista käytöstä</string>
+    <string name="action_none">Ei käytössä</string>
     <string name="action_home">Etusivu</string>
     <string name="action_power">Näyttö päälle/pois</string>
     <string name="action_wake">Herätä</string>
@@ -88,11 +88,11 @@
     <string name="action_next_track">Seuraava kappale</string>
     <string name="action_flashlight">Taskulamppu päälle/pois</string>
     <string name="action_camera">Avaa kamera</string>
-    <string name="action_screenshot">Ota kuvakaappaus</string>
+    <string name="action_screenshot">Ota näyttökuva</string>
     <string name="action_browser">Avaa selain</string>
-    <string name="action_dialer">Avaa puhelusovellus</string>
+    <string name="action_dialer">Avaa puhelinsovellus</string>
     <string name="action_email">Avaa sähköpostiohjelma</string>
-    <string name="action_messages">Avoimet viestit</string>
+    <string name="action_messages">Avoimet viestit ohjelma</string>
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">Eleet näytön ollessa suljettu</string>
     <string name="screen_off_gestures_manage_summary">Hallita eleitä, kun näyttö on pois päältä</string>
@@ -100,9 +100,9 @@
     <string name="screen_off_gestures_swipe_left_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
     <string name="screen_off_gestures_swipe_right_title">Pyyhkäisy oikealle</string>
     <string name="screen_off_gestures_swipe_right_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
-    <string name="screen_off_gestures_swipe_up_title">Pyyhkäise ylös</string>
+    <string name="screen_off_gestures_swipe_up_title">Pyyhkäisy ylös</string>
     <string name="screen_off_gestures_swipe_up_dlg_title">Valitse toiminto ylöspäin pyyhkäisylle</string>
-    <string name="screen_off_gestures_swipe_down_title">Pyyhkäise alas</string>
+    <string name="screen_off_gestures_swipe_down_title">Pyyhkäisy alas</string>
     <string name="screen_off_gestures_swipe_down_dlg_title">Valitse toiminto alaspäin pyyhkäisylle</string>
     <!-- Double tap to wake -->
     <string name="tap_to_wake">Herätä napauttamalla</string>
@@ -112,9 +112,9 @@
     <string name="haptic_feedback_summary">Värinä kun kosketusnäytön ele tunnistetaan</string>
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Ota etäisyysanturi käyttöön</string>
-    <string name="allow_proximity_sensor_summary">Tarkista etäisyys-anturi ennen toiminnon suorittamista</string>
+    <string name="allow_proximity_sensor_summary">Tarkista etäisyys anturi ennen toiminnon suorittamista</string>
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->
-    <string name="restart_needed">Laite pitää uudelleenkäynnistää saadaksesi uudet asetukset käyttöön, käynnistä nyt?</string>
+    <string name="restart_needed">Laite pitää uudelleenkäynnistää saadaksesi uudet asetuksesi käyttöösi, käynnistetäänkö nyt?</string>
 </resources>
