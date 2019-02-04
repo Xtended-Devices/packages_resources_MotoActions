@@ -25,11 +25,11 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">बंद</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">डबल-ट्विस्ट</string>
-    <string name="camera_gesture_summary">डबल ट्विस्ट इशारे का उपयोग करते समय कैमरा खोले</string>
+    <string name="camera_gesture_title">दो बार घुमो</string>
+    <string name="camera_gesture_summary">दो बार घुमाने पर कैमरा खोलें</string>
     <!-- Chop-chop gesture -->
-    <string name="chop_chop_gesture_title">झटपट</string>
-    <string name="chop_chop_gesture_summary">चॉक-चॉप जेस्चर का उपयोग करते समय टॉर्च जलाएं या बंद करें</string>
+    <string name="chop_chop_gesture_title">हिलाना</string>
+    <string name="chop_chop_gesture_summary">फोन को हिलाने पर टॉर्च चालू करें या बंद करें</string>
     <!-- Hand wave silencer gesture -->
     <string name="hand_wave_silencer_title">शांत करने के लिए लहराए</string>
     <string name="hand_wave_silencer_summary">आए हुए कॉल को शांत करने  लिए अपना हाथ प्रदर्शन  के ऊपर से ले जाए</string>
@@ -112,7 +112,9 @@
     <string name="haptic_feedback_summary">जब भी स्क्रीन पर कोई इशारा पता चलने पर वाइब्रेट हो</string>
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">निकटता सेंसर को मंज़ूरी दें</string>
+    <string name="allow_proximity_sensor_summary">निकटता सेंसर को जांच लें</string>
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->
+    <string name="restart_needed">सेटिंग्स को लागू करने के लिए फोन को वापस शूरू करना होगा। वापस शुरु करें?</string>
 </resources>
