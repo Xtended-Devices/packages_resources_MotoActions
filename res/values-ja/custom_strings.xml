@@ -19,11 +19,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
-    <string name="moto_actions_title">Motoアクション</string>
+    <string name="moto_actions_title">Moto アクション</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">オン</string>
+    <string name="switch_bar_on">ON</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">オフ</string>
+    <string name="switch_bar_off">OFF</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">2回ひねり</string>
     <string name="camera_gesture_summary">2回ひねりのジェスチャーでカメラを起動</string>
@@ -57,7 +57,7 @@
     <string name="fingerprint_gestures_title">指紋ジェスチャー</string>
     <string name="fingerprint_gestures_summary">指紋ジェスチャーの管理</string>
     <string name="fingerprint_gestures_manage_summary">指紋ジェスチャーの管理</string>
-    <string name="fingerprint_actions_screenon">画面オン時アクション</string>
+    <string name="fingerprint_actions_screenon">画面点灯時アクション</string>
     <string name="fingerprint_tap_title">シングルタップ</string>
     <string name="fingerprint_tap_dlg_title">シングルタップアクションを選択</string>
     <string name="fingerprint_double_tap_title">ダブルタップ</string>
@@ -69,13 +69,13 @@
     <string name="fingerprint_swipe_right_title">右にスワイプ</string>
     <string name="fingerprint_swipe_right_dlg_title">右へのスワイプのアクションを選択</string>
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">画面オフ時の指紋ジェスチャー</string>
-    <string name="fingerprint_gestures_screenoff_summary">画面オフ時は指紋ジェスチャーを使用してください。\n\nこの機能を使用するには指紋のロックを解除する必要があります。</string>
-    <string name="fingerprint_actions_screenoff">画面オフ時アクション</string>
+    <string name="fingerprint_gestures_screenoff_title">画面消灯時の指紋ジェスチャー</string>
+    <string name="fingerprint_gestures_screenoff_summary">画面消灯時は指紋ジェスチャーを使用してください。\n\nこの機能を使用するには指紋のロックを解除する必要があります。</string>
+    <string name="fingerprint_actions_screenoff">画面消灯時アクション</string>
     <!-- Actions -->
     <string name="action_none">無効</string>
     <string name="action_home">ホーム</string>
-    <string name="action_power">画面のオン/オフ</string>
+    <string name="action_power">画面の ON/OFF</string>
     <string name="action_wake">起動</string>
     <string name="action_back">戻る</string>
     <string name="action_recents">アプリ履歴</string>
@@ -86,7 +86,7 @@
     <string name="action_play_pause">再生/一時停止</string>
     <string name="action_previous_track">前のトラック</string>
     <string name="action_next_track">次のトラック</string>
-    <string name="action_flashlight">ライトのオン/オフ</string>
+    <string name="action_flashlight">ライトの ON/OFF</string>
     <string name="action_camera">カメラを起動</string>
     <string name="action_screenshot">スクリーンショットを撮る</string>
     <string name="action_browser">ブラウザーを起動</string>
@@ -94,8 +94,8 @@
     <string name="action_email">メールアプリを起動</string>
     <string name="action_messages">メッセージアプリを起動</string>
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_title">画面オフ時のジェスチャー</string>
-    <string name="screen_off_gestures_manage_summary">画面オフ時のジェスチャーを管理</string>
+    <string name="screen_off_gestures_title">画面消灯時のジェスチャー</string>
+    <string name="screen_off_gestures_manage_summary">画面消灯時のジェスチャーを管理</string>
     <string name="screen_off_gestures_swipe_left_title">左にスワイプ</string>
     <string name="screen_off_gestures_swipe_left_dlg_title">左へのスワイプのアクションを選択</string>
     <string name="screen_off_gestures_swipe_right_title">右にスワイプ</string>
@@ -116,5 +116,5 @@
     <!-- Title text for double tap power for camera [CHAR LIMIT=60]-->
     <!-- Summary text for double tap power for camera [CHAR LIMIT=160]-->
     <!-- Restart device -->
-    <string name="restart_needed">設定を適用するには端末を再起動する必要があります。再起動しますか？</string>
+    <string name="restart_needed">設定を適用するには端末を再起動する必要があります。再起動しますか?</string>
 </resources>
