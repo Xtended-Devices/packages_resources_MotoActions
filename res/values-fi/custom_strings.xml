@@ -82,7 +82,7 @@
     <string name="action_last_app">Viimeisin sovellus</string>
     <string name="action_volume_up">Äänenvoimakkuus ylös</string>
     <string name="action_volume_down">Hiljennä</string>
-    <string name="action_voice_assistant">Google avustaja</string>
+    <string name="action_voice_assistant">Google Assistantti</string>
     <string name="action_play_pause">Toista/tauko</string>
     <string name="action_previous_track">Edellinen kappale</string>
     <string name="action_next_track">Seuraava kappale</string>
@@ -95,11 +95,11 @@
     <string name="action_messages">Avoimet viestit ohjelma</string>
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">Eleet näytön ollessa suljettu</string>
-    <string name="screen_off_gestures_manage_summary">Hallita eleitä, kun näyttö on pois päältä</string>
+    <string name="screen_off_gestures_manage_summary">Hallitse eleitä, kun näyttö on pois päältä</string>
     <string name="screen_off_gestures_swipe_left_title">Pyyhkäisy vasemmalle</string>
     <string name="screen_off_gestures_swipe_left_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
     <string name="screen_off_gestures_swipe_right_title">Pyyhkäisy oikealle</string>
-    <string name="screen_off_gestures_swipe_right_dlg_title">Valitse toiminto vasemmalle pyyhkäisylle</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">Valitse toiminto oikealle pyyhkäisylle</string>
     <string name="screen_off_gestures_swipe_up_title">Pyyhkäisy ylös</string>
     <string name="screen_off_gestures_swipe_up_dlg_title">Valitse toiminto ylöspäin pyyhkäisylle</string>
     <string name="screen_off_gestures_swipe_down_title">Pyyhkäisy alas</string>

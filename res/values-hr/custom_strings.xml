@@ -26,7 +26,7 @@
     <string name="switch_bar_off">Isključeno</string>
     <!-- Camera gesture -->
     <string name="camera_gesture_title">Dvostruki zaokret</string>
-    <string name="camera_gesture_summary">Otvori fotoaparat gestom dvostruki zaokret</string>
+    <string name="camera_gesture_summary">Otvori kameru gestom dvostruki zaokret</string>
     <!-- Chop-chop gesture -->
     <string name="chop_chop_gesture_title">Chop-chop</string>
     <string name="chop_chop_gesture_summary">Uključi/isključi svjetiljku koristeći chop-chop gestu</string>
@@ -73,12 +73,12 @@
     <string name="fingerprint_gestures_screenoff_summary">Koristi geste čitača otiska prsta kada je zaslon isključen.\n\nOtključavanje otiskom prsta mora biti uključeno.</string>
     <string name="fingerprint_actions_screenoff">Geste kada je zaslon isključen</string>
     <!-- Actions -->
-    <string name="action_none">Onemogući</string>
+    <string name="action_none">Ništa</string>
     <string name="action_home">Početna stranica</string>
     <string name="action_power">Uključi/isključi zaslon</string>
     <string name="action_wake">Probudi uređaj</string>
     <string name="action_back">Natrag</string>
-    <string name="action_recents">Nedavne aplikacije</string>
+    <string name="action_recents">Nedavno</string>
     <string name="action_last_app">Zadnje korištena aplikacija</string>
     <string name="action_volume_up">Pojačaj glasnoću</string>
     <string name="action_volume_down">Smanji glasnoću</string>
@@ -95,7 +95,7 @@
     <string name="action_messages">Otvori aplikaciju Poruke</string>
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">Geste kada je zaslon isključen</string>
-    <string name="screen_off_gestures_manage_summary">Upravljaj gestama isključenog zaslona</string>
+    <string name="screen_off_gestures_manage_summary">Upravljajte gestama isključenog zaslona</string>
     <string name="screen_off_gestures_swipe_left_title">Povlačenje ulijevo</string>
     <string name="screen_off_gestures_swipe_left_dlg_title">Događaj nakon povlačenja ulijevo</string>
     <string name="screen_off_gestures_swipe_right_title">Povlačenje udesno</string>
@@ -108,8 +108,8 @@
     <string name="tap_to_wake">Dodirni za buđenje</string>
     <string name="tap_to_wake_summary">Dvaput dodirnite bilo gdje na zaslonu za buđenje uređaja</string>
     <!-- Screen off gestures haptic feedback -->
-    <string name="haptic_feedback">Dodirna povratna informacija</string>
-    <string name="haptic_feedback_summary">Vibracija kad se gesta prepozna</string>
+    <string name="haptic_feedback">Vibracijska povratna informacija</string>
+    <string name="haptic_feedback_summary">Zavibriraj nakon prepoznate geste</string>
     <!-- Proximity sensor -->
     <string name="allow_proximity_sensor_title">Omogući senzor blizine</string>
     <string name="allow_proximity_sensor_summary">Provjeri senzor blizine prije obavljanja radnje</string>
