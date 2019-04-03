@@ -20,28 +20,28 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">चालू</string>
+    <string name="switch_bar_on">চালু</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">बंद</string>
+    <string name="switch_bar_off">বন্ধ</string>
     <!-- Camera gesture -->
-    <string name="camera_gesture_title">दो बार मोड़ो</string>
+    <string name="camera_gesture_title">দুটা-পাক</string>
     <!-- Chop-chop gesture -->
     <!-- Hand wave silencer gesture -->
     <!-- Hand wave gesture -->
     <string name="hand_wave_gesture_title">হাত জোকাৰা</string>
-    <string name="hand_wave_gesture_summary">হাত জোকাৰিলে পালচ্‌ অধিসূচনা</string>
+    <string name="hand_wave_gesture_summary">হাত জোকাৰিলে স্পন্দনৰ অধিসূচনা</string>
     <!-- Flip to mute gesture -->
     <!-- Lift to silence gesture -->
     <!-- Pick-up gesture -->
     <!-- Device gestures panel -->
-    <string name="screen_gestures_panel_title">ভঙ্গিমা</string>
+    <string name="screen_gestures_panel_title">ভঙ্গিমাবোৰ</string>
     <!-- Device gestures -->
     <!-- Ambient display gestures -->
-    <string name="ambient_display_title">পৰিপাৰ্শ্বিক ডিচপ্লে</string>
+    <string name="ambient_display_title">পৰিব্যাপ্ত ডিচপ্লে\'</string>
     <!-- Fingerprint gestures -->
     <!-- Fingerprint gestures screen off -->
     <!-- Actions -->
-    <string name="action_none">নিস্ক্ৰিয়</string>
+    <string name="action_none">এটাও নহয়</string>
     <!-- Screen off gestures -->
     <!-- Double tap to wake -->
     <!-- Screen off gestures haptic feedback -->
